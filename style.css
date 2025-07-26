@@ -1,7 +1,12 @@
 
-.All_container {
+html {
 
     background: black;
-    font-family: sans-serif;
+
+}
+
+.img_container img {
+
+    margin-left: 200px;
 
 }
