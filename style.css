@@ -2,7 +2,28 @@
 
 .All_container {
 
-    padding: 50px 100px 100px 200px;
+    padding: 50px 50px 50px 0px;
     height: 730px;
+
+}
+
+.login_container {
+
+    width: 350px;
+    height: 477px;
+
+}
+
+.img_container {
+
+    width: 585px;
+    height: 490PX;
+
+}
+
+.img_container img {
+
+    width: 521px;
+    height: 450px;
 
 }
