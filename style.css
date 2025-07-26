@@ -1,12 +1,6 @@
 
-html {
+body {
 
-    background: black;
-
-}
-
-.img_container img {
-
-    margin-left: 200px;
+    padding: 50px 100px 100px 100px;
 
 }
