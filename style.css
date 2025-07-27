@@ -27,3 +27,23 @@
     height: 450px;
 
 }
+
+.input_class {
+
+    width: 270px;
+    height: 40px;
+    padding-left: 10px;
+
+}
+
+.form_btn {
+
+    background: #4A5DF9;
+    color: #FFFF;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    height: 40px;
+
+
+}
