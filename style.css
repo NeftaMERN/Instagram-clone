@@ -50,3 +50,19 @@
 
 
 }
+
+.or_container {
+
+    position: relative;
+
+}
+
+.or {
+
+    position: absolute;
+    width: 50px;
+    left: 130px;
+    top: 5;
+    background-color: #FFFF;
+
+}
