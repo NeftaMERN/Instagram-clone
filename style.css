@@ -4,13 +4,26 @@
 
     padding: 50px 50px 50px 0px;
     height: 730px;
+    max-width: 1200px;
+    margin: 0 auto;
 
 }
 
 .login_container {
 
     width: 350px;
+    max-width: 80%;
     height: 477px;
+
+}
+
+@media (max-width: 768px) {
+    
+    .img_container {
+
+        display: none;
+
+    }
 
 }
 
