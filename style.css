@@ -17,7 +17,7 @@
 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
     
     .img_container {
 
@@ -74,18 +74,6 @@
 
 }
 
-@media (max-width: 790px) {
-
-    .input_class,
-    .form_btn {
-
-        width: 100%;
-        max-width: 200px;
-
-    }
-    
-}
-
 .input_class {
 
     width: 300px;
@@ -113,6 +101,7 @@
 .or_container {
 
     position: relative;
+    width: 300px;
 
 }
 
@@ -120,8 +109,10 @@
 
     position: absolute;
     width: 50px;
-    left: 130px;
+    left: 60%;
     top: 5;
+    text-align: center;
+    transform: translateX(-50px);
     background-color: #FFFF;
 
 }
