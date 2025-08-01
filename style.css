@@ -202,15 +202,15 @@ footer {
     cursor: pointer;
 }
 
-.side_bar_container {
-
-   height: 30vh;
-
-}
-
 .side_bar_container img {
 
     width: 100%;
     max-width: 70px;
+
+}
+
+.all {
+
+    padding-left: 150px;
 
 }
