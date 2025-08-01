@@ -186,13 +186,13 @@ footer {
 
 }
 
-.img_container {
+.img_main_container {
 
     height: 10vh;
 
 }
 
-.img_container img {
+.img_main_container img {
 
     width: 100%;
     max-width: 70px;
