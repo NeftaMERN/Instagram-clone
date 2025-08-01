@@ -161,3 +161,13 @@ footer {
     text-decoration: underline;
 
 }
+
+/* main.html start her */
+
+.manue_container {
+
+    width: 200%;
+    max-width: 250px;
+    height: 90vh;
+
+}
