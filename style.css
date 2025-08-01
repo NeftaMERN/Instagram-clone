@@ -185,3 +185,19 @@ footer {
     
 
 }
+
+.img_container {
+
+    height: 10vh;
+
+}
+
+.img_container img {
+
+    width: 100%;
+    max-width: 70px;
+    height: 70px;
+    border: 2px solid red;
+    border-radius: 50%;
+    cursor: pointer;
+}
