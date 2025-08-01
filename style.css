@@ -214,3 +214,25 @@ footer {
     padding-left: 150px;
 
 }
+
+.post_img_container {
+
+    width: 200%;
+    max-width: 500px;
+
+}
+
+.post_img_container img {
+
+    width: 100%;
+    max-width: 50px;
+    height: auto;
+
+}
+
+.post {
+
+    width: 200%;
+    max-width: 450px;
+
+}
