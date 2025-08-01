@@ -4,7 +4,7 @@
 
     padding: 50px 50px 50px 0px;
     height: 730px;
-    max-width: 1200px; /* whay we use 1200px */
+    max-width: 1200px;
     margin: 0 auto;
 
 }
@@ -28,8 +28,8 @@
     .login_container {
 
         margin: 0 auto;
-        width: 100%; /* why use 100% */
-        max-width: 350px; /* why use 350px */
+        width: 100%;
+        max-width: 350px;
 
     }
 
